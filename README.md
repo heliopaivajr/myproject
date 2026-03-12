@@ -1,2 +1,2 @@
 # myproject
-Projeto estudo pós-graduação.
+Projeto estudo pós-graduação para ingestão de dados no databrick - ETL.
